@@ -1,18 +1,18 @@
-baseURL: https://junius0601.github.io/
+baseURL: https://reahill06.github.io/
 locale: zh
 defaultContentLanguage: zh
-title: Junius's Blog
+title: Reahill's Blog
 theme: PaperMod
 
 params:
   mainSections:
     - posts
-  author: Junius
+  author: Reahill
   assets:
     favicon: favicon.ico
   homeInfoParams:
     enabled: true
-    title: Junius's Blog
+    title: Reahill's Blog
     content: 我想说很多东西，但这里空白太小放不下
     imageUrl: img/avatar.jpg
   fuseOpts:
